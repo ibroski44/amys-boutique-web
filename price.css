@@ -1,0 +1,96 @@
+
+.nav-brand{
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+.sword{
+    font-size:20px;
+    font-family: fantasy;
+    color: darkgrey;
+    font-weight: lighter;
+}
+.body-interval{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+.first{
+    font-size: 5rem;
+    letter-spacing: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.topclear{
+    
+}
+.second{
+    font-size: 4rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    line-height: 100px;
+    letter-spacing: 2px;
+}
+.third{
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.carousel-item{
+    width: 700px;
+    height: 500px;
+
+
+}
+.fluid-container{
+    height: 5rem;
+    text-align: center;
+}
+.pword{
+    font-size: 5rem;
+    padding-top: 70px;
+}
+#ti{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 80px;
+}
+@media (max-width:900px) {
+    .nav-brand{
+        color: chartreuse;
+    }
+    
+}
+.row{
+    padding: 100px;
+    margin: 0;
+}
+.card- body{
+    text-align: center;
+}
+table{
+    padding: 100px;
+}
+.email{
+    width: 650px;
+}
+.btn:hover{
+    color: white;
+    background-color: black;
+    transition:1s all;
+}
+
+.card- body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 12px;
+}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+}  
